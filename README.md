@@ -28,6 +28,7 @@ This repository provides a dataset for training and evaluating models that corre
 
 
 <img src="Images/Errors_and_types.png" width="200" />
+
 ![distribution of different errors in the synthetic dataset](Images/Errors_and_types.png)
 
 ## Motivation
