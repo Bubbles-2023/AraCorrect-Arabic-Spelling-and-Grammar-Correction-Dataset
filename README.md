@@ -27,7 +27,7 @@ This repository provides a dataset for training and evaluating models that corre
     * Injections were randomized across all sentences, ensuring a diverse distribution of errors.
 
 <h3 align="center">distribution of different errors in the synthetic dataset </h3>
-<p align="center">  <img src="Images/Errors_and_types.png" width="500" /> </p>
+<p align="center"> <img src="Images/Errors_and_types.png" width="700" /> </p>
 
 ![distribution of different errors in the synthetic dataset](Images/Errors_and_types.png)
 
