@@ -1,5 +1,4 @@
 # AraCorrect-Arabic-Spelling-and-Grammar-Correction-Dataset
-# Arabic Grammatical Error Correction Dataset
 
 This repository provides a dataset for training and evaluating models that correct grammatical and spelling errors in Arabic text. It addresses the limitations of existing datasets by offering a larger, more diverse set of examples with a wider range of error types.
 
@@ -32,9 +31,6 @@ This repository provides a dataset for training and evaluating models that corre
 ## Motivation
 
 The NLP (Natural Language Processing) domain, particularly transformer models, thrives on large datasets. However, the commonly used QALB 2014 dataset only offers a limited size of 20,430 sentences. This restricts the ability of models to generalize effectively on real-world Arabic text, which often contains diverse and nuanced errors.
-
-<h3 align="center">The constructed synthetic data compared with QALB-2014</h3>
-<p align="center"> <img src="Images/Data_Ratio.png" width="700" /> </p>
 
 ## Addressing the Need for More Data
 
@@ -81,9 +77,9 @@ We plan to expand this dataset further by:
 
 We believe this enhanced AGEC dataset offers a valuable resource for the NLP community, fostering the development of more robust and accurate Arabic grammatical error correction models. We encourage researchers and developers to utilize this dataset in their work.
 
-## How to Use the Dataset
+## Competing interests
 
-(Provide instructions on file format, data separation, etc., if applicable)
+The authors declare that they have no competing interests.
 
 ## License
 
