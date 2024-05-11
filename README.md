@@ -18,12 +18,6 @@ This repository provides a dataset for training and evaluating models that corre
     * Contains 1,999,878 sentences and 49,785,900 words
 
 * **Error Types:**
-    * **Spelling Errors:** Typos, missing letters, extra characters
-    * **Grammar Errors:** Mismatched gender, number, person, case, tense, word order, extra or missing words
-    * **Segmentation Errors:** Incorrect word boundaries
-    * **Dot Errors:** Accidental keystrokes from neighboring keys
-
-* **Error Types:**
     * A noise injection technique was employed to introduce additional errors into the AGEC dataset. (Details on the technique can be provided here, if applicable)
     * Errors were meticulously designed to reflect the most frequent grammatical and spelling mistakes encountered in everyday Arabic text, following these approximate injection rates:
         * Spelling Errors: 10% (e.g., typos, missing letters, extra characters)
