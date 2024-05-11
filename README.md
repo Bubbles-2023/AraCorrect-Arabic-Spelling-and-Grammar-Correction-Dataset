@@ -29,11 +29,12 @@ This repository provides a dataset for training and evaluating models that corre
 <h3 align="center">distribution of different errors in the synthetic dataset </h3>
 <p align="center"> <img src="Images/Errors_and_types.png" width="700" /> </p>
 
-![distribution of different errors in the synthetic dataset](Images/Errors_and_types.png)
-
 ## Motivation
 
 The NLP (Natural Language Processing) domain, particularly transformer models, thrives on large datasets. However, the commonly used QALB 2014 dataset only offers a limited size of 20,430 sentences. This restricts the ability of models to generalize effectively on real-world Arabic text, which often contains diverse and nuanced errors.
+
+<h3 align="center">The constructed synthetic data compared with QALB-2014</h3>
+<p align="center"> <img src="Images/Data_Ratio.png" width="700" /> </p>
 
 ## Addressing the Need for More Data
 
