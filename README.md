@@ -57,7 +57,7 @@ To enhance the capabilities of Arabic grammatical error correction models, we in
 | Validation Split | 1,500,171                    | - (subset of Enhanced AGEC)         |
 | Words           | Not provided                  | 49,785,900                             |
 | Error Types     | Limited to AGEC errors        | Spelling, Grammar, Segmentation, Dots |
-| Access Link     | [AGEC dataset link]          | Provided within the repository        |
+| Access Link     | [[[AGEC dataset link](https://drive.google.com/drive/folders/1_aH1TYtBfPOGDNLPhlgWRL1_QDA8nE42?usp=sharing)]](https://drive.google.com/drive/folders/1LPR7AzGvWHYR0VRv5YWQXoOG3v7MvP_V?usp=sharing)          | [[AGEC dataset link](https://drive.google.com/drive/folders/1_aH1TYtBfPOGDNLPhlgWRL1_QDA8nE42?usp=sharing)]         |
 
 ## Benefits of Using This Dataset
 
