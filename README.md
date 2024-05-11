@@ -26,10 +26,8 @@ This repository provides a dataset for training and evaluating models that corre
         * Dots: 15% (e.g., accidental keystrokes from neighboring keys)
     * Injections were randomized across all sentences, ensuring a diverse distribution of errors.
 
-    <h3 align="center"> distribution of different errors in the synthetic dataset </h3>
-<p align="center">
-    <img src="Images/Errors_and_types.png" width="500" />
-</p>
+<h3 align="center">distribution of different errors in the synthetic dataset </h3>
+<p align="center">  <img src="Images/Errors_and_types.png" width="500" /> </p>
 
 ![distribution of different errors in the synthetic dataset](Images/Errors_and_types.png)
 
